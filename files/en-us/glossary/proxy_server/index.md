@@ -1,4 +1,4 @@
----
+--content/files/en-us/glossary/proxy_server/index.md
 title: Proxy server
 slug: Glossary/Proxy_server
 page-type: glossary-definition
